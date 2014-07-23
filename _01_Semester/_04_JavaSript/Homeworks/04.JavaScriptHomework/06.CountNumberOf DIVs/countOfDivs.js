@@ -1,0 +1,3 @@
+function countDivs(html) {
+    
+}
