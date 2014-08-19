@@ -8,7 +8,7 @@
     </head>
     <body>
         <?php
-
+        //echo phpinfo();
         $n = 1234;
         $arr = array();
 
